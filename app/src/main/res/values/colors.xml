@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5FB404</color>
+    <item name="primary_color" type="color">#FF2ecc71</item>
+    <color name="colorPrimaryDark">#74a443</color>
+    <color name="colorAccent">#bdec2626</color>
+
+    <item name="black" type="color">#FF000000</item>
+    <item name="white" type="color">#FFFFFFFF</item>
+    <item name="light_black" type="color">#55EEEEEE</item>
+    <item name="blue" type="color">#FFFFFFFF</item>
+    <item name="red" type="color">#FFFFFFFF</item>
+
+    <!-- Screens background -->
+    <color name="bg_screen">#5FB404</color>
+    <color name="details_recipe">#865fb404</color>
+    <color name="sign_in_up_bacround">#995fb404</color>
+    <color name="sign_in_up">#865fb404</color>
+
+
+    <color name="btn_send_normal">#006633 </color>
+    <color name="btn_send_pressed">#74a443</color>
+
+</resources>

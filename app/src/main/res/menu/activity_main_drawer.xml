@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search_white"
+            android:title="Search" />
+        <item
+            android:id="@+id/my_recipes"
+            android:icon="@drawable/ic_recipe"
+            android:title="My recipe" />
+
+        <item
+            android:id="@+id/add_recipes"
+            android:icon="@drawable/ic_add_circle"
+            android:title="New recipe" />
+
+        <item
+            android:id="@+id/fevarit"
+            android:icon="@drawable/ic_bookmark"
+            android:title="Favorite recipe " />
+
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_star_rating"
+            android:title="Rate App" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Share App"
+            tools:ignore="DuplicateIds" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/binfo"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+        <item
+            android:id="@+id/nav_exit"
+            android:title="Exit" />
+    </group>
+
+
+
+</menu>
